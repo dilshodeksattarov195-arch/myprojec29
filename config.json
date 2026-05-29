@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrpdate",
+        "uuid": 35728,
+        "checksum": "4c446c"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
